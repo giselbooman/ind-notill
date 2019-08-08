@@ -5,7 +5,7 @@ No till algorithm is based on NDVI, CRC and /or VV-VH from sentinel remote sensi
 
 ## Details
 <!-- Add a more detailed description about this indicator -->
-Add a more detailed description about this indicator
+Tillage levels are defined according to residue cover as conventional till <15%, partial till >15% & <40%, and no till >40%)
 
 ## Status
 <!-- Choose one of the following Draft | Proposed | In Review | Production -->
@@ -15,5 +15,5 @@ Draft
 v0.1 - initial draft
 
 # Contributors
-Your name
+Gisel
 
